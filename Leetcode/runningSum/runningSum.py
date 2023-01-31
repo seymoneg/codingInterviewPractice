@@ -8,3 +8,5 @@ class Solution:
             newList.append(runSum)
 
         return newList
+    
+# Runtime: 36 ms, Beats: 92.76%
